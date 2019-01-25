@@ -1,4 +1,5 @@
-## String pad pattern provides a simple way to pad an string following a simple patter.
+## String pad pattern provides a simple way to pad an string following
+## a simple pattern and adding (?var) as the target section.
 
 # Define a pattern:
 
@@ -6,7 +7,7 @@ To define a pattern just add "(?var)" on the section of the pattern where the pa
 
 # How to use it:
 ```
-const stringPadder = required("string-pad-pattern");
+const stringPadder = require("string-pad-pattern");
 
 const testString = "file-1.js"
     ,pattern = "file-(?var).js" //string pattern for example "salary_(?var)_group_a"
@@ -14,10 +15,9 @@ const testString = "file-1.js"
     ,padString = '0'            //character or characters to pad the string
     ,padRight = false;          //apply padding to the right, defualt to false
 
-let result = stringPadder.padPattern(pattern, padLength, padString);
+let result = stringPadder.padPattern(testString, pattern, padLength, padString);
 
 console.log(result);
-//should print file-0001.js
 
 ```
 
