@@ -1,5 +1,4 @@
-## String pad pattern provides a simple way to pad an string following
-## a simple pattern and adding (?var) as the target section.
+### String pad pattern provides a simple way to pad an string the following a pattern.
 
 # Define a pattern:
 

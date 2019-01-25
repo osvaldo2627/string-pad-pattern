@@ -1,6 +1,6 @@
 {
   "name": "string-pad-pattern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy string pad for a given pattern",
   "main": "index.js",
   "scripts": {
