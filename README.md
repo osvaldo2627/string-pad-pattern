@@ -1,4 +1,4 @@
-### String pad pattern provides a simple way to pad an string the following a pattern.
+### simple way to add padding to one string following a gived pattern.
 
 # Define a pattern:
 
