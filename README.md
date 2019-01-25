@@ -1,4 +1,4 @@
-### simple way to add padding to one string following a gived pattern.
+### Simple way to add padding to one string following a gived pattern.
 
 # Define a pattern:
 
