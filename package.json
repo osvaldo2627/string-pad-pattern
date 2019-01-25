@@ -12,5 +12,9 @@
     "pattern"
   ],
   "author": "Osvaldo Aguilar <osvaldo2627@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osvaldo2627/string-pad-pattern.git"
+  }
 }
