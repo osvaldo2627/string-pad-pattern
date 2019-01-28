@@ -17,6 +17,7 @@ const testString = "file-1.js"
 let result = stringPadder.padPattern(testString, pattern, padLength, padString);
 
 console.log(result);
+//output  file-00001.js
 
 ```
 
